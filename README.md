@@ -12,5 +12,5 @@ Projeto do curso ProgramadorBR onde desenvolvi uma página de captura muito util
 
 ### :raising_hand_man: Conheça-me mais
 
-LinkedIn:https://www.linkedin.com/in/gustavo-rosa-8a7a481b5/
+LinkedIn:https://www.linkedin.com/in/gustavo-luiz-tech/
 
